@@ -1,4 +1,4 @@
-# FrontTarde
+# Passeio Carioca - 5W2H.
 
 # O QUE
 
@@ -42,8 +42,6 @@
 • O desenvolvimento do projeto iniciará assim que obtivermos mais informações referente ao projeto
 
 
-
-===================================================================================================================================================================================
 
 # ANOTAÇÕES DO PROJETO - REUNIAO 1
 
