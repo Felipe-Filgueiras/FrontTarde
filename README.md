@@ -3,7 +3,7 @@
 # 1. O QUE
 
 
-• Desenvolvimento de uma aplicação web para acesso a um feed com locais do Rio de Janeiro, contendo histórias locais dos imóveis. 
+• Desenvolvimento de uma aplicação web para acesso a um feed com locais historicos privado e público no Rio de Janeiro. 
 
 • Funcionalidades incluem salvar, curtir e comentar, com os comentários sendo exibidos somente após a aprovação do administrador. 
 
