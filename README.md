@@ -27,7 +27,7 @@
 
 # 4. POR QUÊ?
 
-• Proporcionar aos usuários uma experiência interativa e informativa sobre os imóveis turísticos e histórias locais do Rio de Janeiro. 
+• Tendo como propósito proporcionar aos usuários uma experiência interativa e informativa sobre os imóveis turísticos e histórias locais do Rio de Janeiro. 
 
 • Gerar receita por meio de publicidade para sustentar e expandir o projeto.
 
