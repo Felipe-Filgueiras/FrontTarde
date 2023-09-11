@@ -1,6 +1,6 @@
 # FrontTarde
 
-O QUE
+# O QUE
 
 
 • Desenvolvimento de uma aplicação web para acesso a um feed com locais do Rio de Janeiro, contendo histórias locais dos imóveis. 
@@ -10,7 +10,7 @@ O QUE
 • Focado em promover imóveis turísticos com histórias locais e gerar receita por meio de publicidade.
 
 
-COMO
+# COMO
 
 • Utilizando tecnologias web para o desenvolvimento da aplicação. 
 
@@ -18,26 +18,26 @@ COMO
 
 • Implementando um sistema de moderação de comentários para exibição somente após aprovação do administrador.
 
-QUEM
+# QUEM
 
 • A equipe de desenvolvimento, incluindo designers, desenvolvedores front-end e especialistas em histórias locais. 
 
 • Um administrador será responsável pela moderação e aprovação de comentários.
 
 
-POR QUÊ?
+# POR QUÊ?
 
 • Proporcionar aos usuários uma experiência interativa e informativa sobre os imóveis turísticos e histórias locais do Rio de Janeiro. 
 
 • Gerar receita por meio de publicidade para sustentar e expandir o projeto.
 
 
-ONDE
+# ONDE
 
 • A aplicação será acessada online, permitindo aos usuários explorar os locais do Rio de Janeiro virtualmente através do sistema de GPS, e instigar o usuário a conhecer outros locais históricos presencialmente.
 
 
-QUANDO
+# QUANDO
 
 • O desenvolvimento do projeto iniciará assim que obtivermos mais informações referente ao projeto
 
