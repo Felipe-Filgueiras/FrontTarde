@@ -7,8 +7,6 @@
 
 • Funcionalidades incluem salvar, curtir.
 
-• Focado em promover imóveis turísticos com histórias locais e também gerar receita por meio de publicidade.
-
 
 # 2. COMO
 
@@ -18,8 +16,7 @@
 
 # 3. QUEM
 
-• A equipe de desenvolvimento, incluindo designers, desenvolvedores front-end e especialistas em histórias locais. 
-
+• Usuários interessados pela cultura e história do Rio de Janeiro.
 • 
 
 
