@@ -45,6 +45,8 @@
 
 # ANOTAÇÕES DO PROJETO - REUNIAO 1
 
+Passeio Carioca Criação de um ”feed de notícias”(como se fosse um instagram: foto, endereço e história) onde seriam listados os últimos imóveis cadastrados em ordem cronológica, além da possibilidade de publicação de anúncios; Descrição: Criação de uma área de uma área no app para ver as últimas postagens de localidades e anúncios dentro da plataforma
+
 Moveis residenciais. Feed de noticias, alem de anúncios, local onde conta histórias dos locais.
 
 Colocar as ultimas atualizações e anúncios 
