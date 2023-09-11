@@ -12,7 +12,7 @@
 
 # 2. COMO
 
-• Utilizando tecnologias web para o desenvolvimento da aplicação. 
+• Utilizando tecnologias web (HTML, CSS, JS e React) para o desenvolvimento da aplicação. 
 
 • Integrando o sistema de navegação GPS do Google Maps para mapeamento dos locais. 
 
