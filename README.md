@@ -16,8 +16,9 @@
 
 # 3. QUEM
 
+
+• Desenvolvedores front-end e especialistas em histórias locais. 
 • Usuários interessados pela cultura e história do Rio de Janeiro.
-• 
 
 
 # 4. POR QUÊ?
