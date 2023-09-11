@@ -1,6 +1,6 @@
 # Requisitos Funcionais:
 
-#Autenticação de Usuário:
+# Autenticação de Usuário:
 
 Os usuários devem poder se registrar, fazer login e sair de suas contas.
 Os usuários devem ser capazes de redefinir suas senhas se as esquecerem.
