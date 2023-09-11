@@ -5,7 +5,7 @@
 
 • Desenvolvimento de uma aplicação web para acesso a um feed com locais historicos privado e público no Rio de Janeiro. 
 
-• Funcionalidades incluem salvar, curtir e comentar, com os comentários sendo exibidos somente após a aprovação do administrador. 
+• Funcionalidades incluem salvar, curtir.
 
 • Focado em promover imóveis turísticos com histórias locais e também gerar receita por meio de publicidade.
 
@@ -16,13 +16,11 @@
 
 • Integrando o sistema de navegação GPS do Google Maps para mapeamento dos locais. 
 
-• Implementando um sistema de moderação de comentários para exibição somente após aprovação do administrador.
-
 # 3. QUEM
 
 • A equipe de desenvolvimento, incluindo designers, desenvolvedores front-end e especialistas em histórias locais. 
 
-• Um administrador será responsável pela moderação e aprovação de comentários.
+• 
 
 
 # 4. POR QUÊ?
