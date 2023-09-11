@@ -2,7 +2,6 @@
 
 # 1. O QUE
 
-
 • Desenvolvimento de uma aplicação web para acesso a um feed com locais historicos privado e público no Rio de Janeiro. 
 
 • Funcionalidades incluem salvar, curtir.
@@ -14,8 +13,8 @@
 
 • Integrando o sistema de navegação GPS do Google Maps para mapeamento dos locais. 
 
-# 3. QUEM
 
+# 3. QUEM
 
 • Desenvolvedores front-end e especialistas em histórias locais. 
 • Usuários interessados pela cultura e história do Rio de Janeiro.
@@ -28,14 +27,19 @@
 • Gerar receita por meio de publicidade para sustentar e expandir o projeto.
 
 
-# 5. ONDE
+# 5. ONDE?
 
 • A aplicação será acessada online, permitindo aos usuários explorar os locais do Rio de Janeiro virtualmente através do sistema de GPS, e instigar o usuário a conhecer outros locais históricos presencialmente.
 
 
-# 6. QUANDO
+# 6. QUANDO?
 
-• O desenvolvimento do projeto iniciará assim que obtivermos mais informações referente ao projeto
+• O projeto iniciará assim que obtivermos mais informações referente ao projeto
+
+
+# 7. QUANTO?
+
+• Terá como custo o tempo da equipe envolvida no projeto.
 
 
 
