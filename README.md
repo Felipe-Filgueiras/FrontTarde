@@ -7,7 +7,7 @@
 
 • Funcionalidades incluem salvar, curtir e comentar, com os comentários sendo exibidos somente após a aprovação do administrador. 
 
-• Focado em promover imóveis turísticos com histórias locais e gerar receita por meio de publicidade.
+• Focado em promover imóveis turísticos com histórias locais e também gerar receita por meio de publicidade.
 
 
 # 2. COMO
