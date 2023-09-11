@@ -1,6 +1,6 @@
 # Passeio Carioca - 5W2H.
 
-# O QUE
+# 1. O QUE
 
 
 • Desenvolvimento de uma aplicação web para acesso a um feed com locais do Rio de Janeiro, contendo histórias locais dos imóveis. 
@@ -10,7 +10,7 @@
 • Focado em promover imóveis turísticos com histórias locais e gerar receita por meio de publicidade.
 
 
-# COMO
+# 2. COMO
 
 • Utilizando tecnologias web para o desenvolvimento da aplicação. 
 
@@ -18,26 +18,26 @@
 
 • Implementando um sistema de moderação de comentários para exibição somente após aprovação do administrador.
 
-# QUEM
+# 3. QUEM
 
 • A equipe de desenvolvimento, incluindo designers, desenvolvedores front-end e especialistas em histórias locais. 
 
 • Um administrador será responsável pela moderação e aprovação de comentários.
 
 
-# POR QUÊ?
+# 4. POR QUÊ?
 
 • Proporcionar aos usuários uma experiência interativa e informativa sobre os imóveis turísticos e histórias locais do Rio de Janeiro. 
 
 • Gerar receita por meio de publicidade para sustentar e expandir o projeto.
 
 
-# ONDE
+# 5. ONDE
 
 • A aplicação será acessada online, permitindo aos usuários explorar os locais do Rio de Janeiro virtualmente através do sistema de GPS, e instigar o usuário a conhecer outros locais históricos presencialmente.
 
 
-# QUANDO
+# 6. QUANDO
 
 • O desenvolvimento do projeto iniciará assim que obtivermos mais informações referente ao projeto
 
