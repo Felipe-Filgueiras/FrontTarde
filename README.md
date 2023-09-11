@@ -53,7 +53,7 @@ Teríamos que encontrar os pontos turísticos pelo mapa
 
 Rentabiliza com anuncios 
 
-Financiados por uma imobiliária, pois na final de cada historia do feed de noticias 
+Financiados por uma imobiliária
 
 Interação entre usuário e ADMIN, e após aprovaçáo do ADMIN será publicado.
 
