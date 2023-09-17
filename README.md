@@ -1,47 +1,38 @@
 # Passeio Carioca - 5W2H.
 
-# 1. O QUE
+# 1. O QUE (o que será feito?)
 
 • Desenvolvimento de uma aplicação web para acesso a um feed com locais historicos privado e público no Rio de Janeiro. 
 
-• Funcionalidades incluem salvar, curtir.
-
-
-# 2. COMO
+# 2. COMO (como será feito?)
 
 • Utilizando tecnologias web (HTML, CSS, JS e React) para o desenvolvimento da aplicação. 
 
-• Integrando o sistema de navegação GPS do Google Maps para mapeamento dos locais. 
+• Integração do sistema de navegação GPS do Google Maps para mapeamento dos locais. 
 
-
-# 3. QUEM
+# 3. QUEM (por quem será feito?)
 
 • Desenvolvedores front-end e especialistas em histórias locais. 
+
 • Usuários interessados pela cultura e história do Rio de Janeiro.
 
-
-# 4. POR QUÊ?
+# 4. POR QUÊ? (por que será feito?)
 
 • Tendo como propósito proporcionar aos usuários uma experiência interativa e informativa sobre os imóveis turísticos e histórias locais do Rio de Janeiro. 
 
 • Gerar receita por meio de publicidade para sustentar e expandir o projeto.
 
-
-# 5. ONDE?
+# 5. ONDE? (onde será feito?)
 
 • A aplicação será acessada online, permitindo aos usuários explorar os locais do Rio de Janeiro virtualmente através do sistema de GPS, e instigar o usuário a conhecer outros locais históricos presencialmente.
 
-
-# 6. QUANDO?
+# 6. QUANDO? (quando será feito?)
 
 • O projeto iniciará assim que obtivermos mais informações referente ao projeto
 
-
-# 7. QUANTO?
+# 7. QUANTO? (quanto vai custar?)
 
 • Terá como custo o tempo da equipe envolvida no projeto.
-
-
 
 # ANOTAÇÕES DO PROJETO - REUNIAO 1
 
