@@ -11,6 +11,7 @@ Os locais devem ser mapeados no Google Maps para uma interação visual.
 
 Os usuários devem poder curtir histórias.
 
+
 Os usuários devem poder comentar sobre histórias, mas os comentários só devem ser visíveis após aprovação do administrador.
 
 Os usuários devem poder salvar histórias como favoritas.
