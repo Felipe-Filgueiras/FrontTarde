@@ -5,6 +5,7 @@
 # O QUE (o que será feito?)
 
 • Desenvolvimento de uma aplicação web para acesso a um feed com locais historicos privado e público no Rio de Janeiro. 
+
 • Será semelhante ao feed de noticias do instagram, onde os usuários terão como visualizar as postagens referentes aos imóveis publicados.
 
 
