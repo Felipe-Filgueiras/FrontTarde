@@ -27,8 +27,6 @@ O sistema deve exibir anúncios publicitários.
 
 O sistema pode oferecer cupons de desconto aos usuários com base em suas interações ou localização.
 
-O sistema deve possibilitar a navegação no mapa do Rio de Janeiro, com os locais e histórias acessíveis através do mapa interativo.
-
 # Requisitos Não Funcionais:
 
 O sistema deve incluir os dados dos usuários, senhas e devem ser armazenados de forma segura.
