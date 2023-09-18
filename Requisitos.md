@@ -9,6 +9,10 @@ O sistema deve exibir um feed de locais no Rio de Janeiro, acompanhados de hist�
 
 O sistema deve permitir que os usuários visualizem as últimas atualizações no feed.
 
+O sistema deve permitir os administradores adicionarem e retirarem posts do feed de notícias.
+
+O feed deverá poder ser recarregado para receber posts mais recentes.
+
 O sistema deve integrar os locais ao Google Maps para oferecer uma interação visual.
 
 O sistema deve permitir que os usuários deem "curtir" em histórias.
