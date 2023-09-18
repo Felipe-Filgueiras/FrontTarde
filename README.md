@@ -42,9 +42,9 @@
 
 • Os usuários podem desfrutar da aplicação sem custos diretos, financiando sua utilização por meio da exibição de anúncios relevantes.
 
-# Propósito do sistema
+# Propósito
 
-Desenvolver uma aplicação web interativa que apresenta um feed de locais históricos, oferecendo uma experiência imersiva que inspira os usuários a explorar esses destinos e os incentiva a visitar os locais selecionados.
+Desenvolver uma aplicação web interativa que apresenta um feed de locais históricos, oferecendo uma experiência imersiva que inspira os usuários a explorar novos destinos e monetizar a aplicação através de publicidade.
 
 # Anotações do projeto - (Linguagem Informal)
 
