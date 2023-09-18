@@ -27,16 +27,18 @@ O sistema deve possibilitar a navegação no mapa do Rio de Janeiro, com os loca
 
 # Requisitos Não Funcionais:
 
-Os dados dos usuários, incluindo senhas, devem ser armazenados de forma segura.
+O sistema deve incluir os dados dos usuários, senhas e devem ser armazenados de forma segura.
 
-A aplicação deve ser responsiva e carregar rapidamente, mesmo em conexões de internet mais lentas.
+O sistema deve ser responsivo e carregar rapidamente, mesmo em conexões de internet mais lentas.
+
 O sistema de navegação GPS do Google Maps deve funcionar sem problemas.
 
-O software deve ser projetado para lidar com um grande número de usuários e histórias à medida que o projeto cresce.
+O sistema deve ser projetado para lidar com um grande número de usuários e histórias à medida que o projeto cresce.
 
-A interface do usuário deve ser intuitiva e fácil de usar.
-Deve ser compatível com diferentes dispositivos, como smartphones, tablets e desktops.
+O sistema deve haver uma interface do usuário que seja intuitiva e fácil de usar.
 
-O software deve ser altamente disponível, com um mínimo de tempo de inatividade planejado para manutenção.
+O sistema deve ser compatível com diferentes dispositivos, como smartphones, tablets e desktops.
 
-Deve haver uma estratégia eficaz para gerar receita por meio de publicidade.
+O sistema deve ser altamente disponível, com um mínimo de tempo de inatividade planejado para manutenção.
+
+O sistema deve haver uma estratégia eficaz para gerar receita por meio de publicidade.
