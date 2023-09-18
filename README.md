@@ -1,5 +1,7 @@
 # Passeio Carioca - 5W2H.
 
+# Sistema
+
 # 1. O QUE (o que será feito?)
 
 • Desenvolvimento de uma aplicação web para acesso a um feed com locais historicos privado e público no Rio de Janeiro. 
@@ -33,6 +35,37 @@
 # 7. QUANTO? (quanto vai custar?)
 
 • Terá como custo o tempo da equipe envolvida no projeto.
+
+
+# Usuário
+
+# 1. O QUE (o que será feito?)
+
+•  
+
+# 2. COMO (como será feito?)
+
+• 
+
+# 3. QUEM (por quem será feito? / quem usará? )
+
+• 
+
+# 4. POR QUÊ? (por que será feito?)
+
+•
+
+# 5. ONDE? (onde será feito?)
+
+• 
+
+# 6. QUANDO? (quando será feito?)
+
+• 
+
+# 7. QUANTO? (quanto vai custar?)
+
+• Os usuários podem desfrutar do aplicativo sem custos diretos, financiando sua utilização por meio da exibição de anúncios relevantes.
 
 # Propósito do sistema
 
