@@ -31,7 +31,7 @@ O sistema deve incluir os dados dos usuários, senhas e devem ser armazenados de
 
 O sistema deve ser responsivo e carregar rapidamente, mesmo em conexões de internet mais lentas.
 
-O sistema de navegação GPS do Google Maps deve funcionar sem problemas.
+O sistema ira utilizar navegação GPS do Google Maps deve funcionar sem problemas.
 
 O sistema deve ser projetado para lidar com um grande número de usuários e histórias à medida que o projeto cresce.
 
@@ -41,4 +41,4 @@ O sistema deve ser compatível com diferentes dispositivos, como smartphones, ta
 
 O sistema deve ser altamente disponível, com um mínimo de tempo de inatividade planejado para manutenção.
 
-O sistema deve haver uma estratégia eficaz para gerar receita por meio de publicidade.
+O sistema pode haver uma estratégia eficaz para gerar receita por meio de publicidade.
