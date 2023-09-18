@@ -39,7 +39,7 @@
 
 • Terá como custo o tempo da equipe envolvida no projeto.
 
-
+• Os usuários podem desfrutar do aplicativo sem custos diretos, financiando sua utilização por meio da exibição de anúncios relevantes.
 
 # Propósito do sistema
 
