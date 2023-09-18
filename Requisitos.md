@@ -33,7 +33,7 @@ O sistema deve incluir os dados dos usuários, senhas e devem ser armazenados de
 
 O sistema deve ser responsivo e carregar rapidamente, mesmo em conexões de internet mais lentas.
 
-O sistema ira utilizar navegação GPS do Google Maps deve funcionar sem problemas.
+O sistema ira utilizar navegação GPS do Google Maps.
 
 O sistema deve ser projetado para lidar com um grande número de usuários e histórias à medida que o projeto cresce.
 
