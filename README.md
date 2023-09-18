@@ -10,7 +10,7 @@
 
 • Integração do sistema de navegação GPS do Google Maps para mapeamento dos locais. 
 
-# 3. QUEM (por quem será feito?)
+# 3. QUEM (por quem será feito? / Quem usará )
 
 • Desenvolvedores front-end e especialistas em histórias locais. 
 
