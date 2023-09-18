@@ -2,39 +2,39 @@
 
 # Sistema
 
-# 1. O QUE (o que será feito?)
+# O QUE (o que será feito?)
 
 • Desenvolvimento de uma aplicação web para acesso a um feed com locais historicos privado e público no Rio de Janeiro. 
 • Será semelhante ao feed de noticias do instagram, onde os usuários terão como visualizar as postagens referentes aos imóveis publicados.
 
 
-# 2. COMO (como será feito?)
+# COMO (como será feito?)
 
 • Utilizando tecnologias web (HTML, CSS, JS e React) para o desenvolvimento da aplicação. 
 
 • Integração do sistema de navegação GPS do Google Maps para mapeamento dos locais. 
 
-# 3. QUEM (por quem será feito? / quem usará? )
+# QUEM (por quem será feito? / quem usará? )
 
 • Desenvolvedores front-end e especialistas em histórias locais. 
 
 • Usuários interessados pela cultura e história do Rio de Janeiro.
 
-# 4. POR QUÊ? (por que será feito?)
+# POR QUÊ? (por que será feito?)
 
 • Tendo como propósito proporcionar aos usuários uma experiência interativa e informativa sobre os imóveis turísticos e histórias locais do Rio de Janeiro. 
 
 • Gerar receita por meio de publicidade para sustentar e expandir o projeto.
 
-# 5. ONDE? (onde será feito?)
+# ONDE? (onde será feito?)
 
 • A aplicação será acessada online, permitindo aos usuários explorar os locais do Rio de Janeiro virtualmente através do sistema de GPS, e instigar o usuário a conhecer outros locais históricos presencialmente.
 
-# 6. QUANDO? (quando será feito?)
+# QUANDO? (quando será feito?)
 
 • O projeto iniciará assim que obtivermos mais informações referente ao projeto
 
-# 7. QUANTO? (quanto vai custar?)
+# QUANTO? (quanto vai custar?)
 
 • Terá como custo o tempo da equipe envolvida no projeto.
 
@@ -44,7 +44,7 @@
 
 Desenvolver uma aplicação web interativa que apresenta um feed de locais históricos, oferecendo uma experiência imersiva que inspira os usuários a explorar esses destinos e os incentiva a visitar os locais selecionados.
 
-# ANOTAÇÕES DO PROJETO - REUNIAO 1
+# ANOTAÇÕES DO PROJETO - REUNIAO (Linguagem Informal)
 
 Passeio Carioca Criação de um ”feed de notícias”(como se fosse um instagram: foto, endereço e história) onde seriam listados os últimos imóveis cadastrados em ordem cronológica, além da possibilidade de publicação de anúncios; Descrição: Criação de uma área de uma área no app para ver as últimas postagens de localidades e anúncios dentro da plataforma
 
