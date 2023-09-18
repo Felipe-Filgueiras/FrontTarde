@@ -21,6 +21,8 @@
 
 • Usuários interessados pela cultura e história do Rio de Janeiro.
 
+• Turistas, moradores locais, estudantes, pesquisadores, curiosos e entusiastas da História:
+
 # POR QUÊ? (por que será feito?)
 
 • Tendo como propósito proporcionar aos usuários uma experiência interativa e informativa sobre os imóveis turísticos e histórias locais do Rio de Janeiro. 
