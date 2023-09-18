@@ -11,6 +11,8 @@
 
 • Utilizando tecnologias web (HTML, CSS, JS e React) para o desenvolvimento da aplicação. 
 
+• O uso dessas tecnologias permite a criação de uma interface de usuário intuitiva, atraente e de fácil navegação, tornando a experiência mais agradável e convidativa.
+
 • Integração do sistema de navegação GPS do Google Maps para mapeamento dos locais. 
 
 # QUEM (por quem será feito? / quem usará? )
