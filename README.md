@@ -1,7 +1,5 @@
 # Passeio Carioca - 5W2H.
 
-# Sistema
-
 # O QUE (o que será feito?)
 
 • Desenvolvimento de uma aplicação web para acesso a um feed com locais historicos privado e público no Rio de Janeiro. 
