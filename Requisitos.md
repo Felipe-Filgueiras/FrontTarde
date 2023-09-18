@@ -41,6 +41,4 @@ O sistema deve haver uma interface do usuário que seja intuitiva e fácil de us
 
 O sistema deve ser compatível com diferentes dispositivos, como smartphones, tablets e desktops.
 
-O sistema deve ser altamente disponível, com um mínimo de tempo de inatividade planejado para manutenção.
-
 O sistema pode haver uma estratégia eficaz para gerar receita por meio de publicidade.
