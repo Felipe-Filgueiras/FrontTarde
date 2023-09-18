@@ -33,7 +33,7 @@
 
 # QUANDO? (quando será feito?)
 
-• O projeto iniciará assim que obtivermos mais informações referente ao projeto
+• O projeto iniciará assim que obtivermos mais informações referente ao projeto.
 
 # QUANTO? (quanto vai custar?)
 
