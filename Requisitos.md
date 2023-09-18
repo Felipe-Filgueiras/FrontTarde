@@ -41,4 +41,4 @@ O sistema deve haver uma interface do usuário que seja intuitiva e fácil de us
 
 O sistema deve ser compatível com diferentes dispositivos, como smartphones, tablets e desktops.
 
-O sistema pode haver uma estratégia eficaz para gerar receita por meio de publicidade.
+O sistema deve haver uma estratégia eficaz para gerar receita por meio de publicidade.
