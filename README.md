@@ -46,7 +46,7 @@
 
 Desenvolver uma aplicação web interativa que apresenta um feed de locais históricos, oferecendo uma experiência imersiva que inspira os usuários a explorar esses destinos e os incentiva a visitar os locais selecionados.
 
-# ANOTAÇÕES DO PROJETO - REUNIAO (Linguagem Informal)
+# Anotações do projeto - (Linguagem Informal)
 
 Passeio Carioca Criação de um ”feed de notícias”(como se fosse um instagram: foto, endereço e história) onde seriam listados os últimos imóveis cadastrados em ordem cronológica, além da possibilidade de publicação de anúncios; Descrição: Criação de uma área de uma área no app para ver as últimas postagens de localidades e anúncios dentro da plataforma
 
