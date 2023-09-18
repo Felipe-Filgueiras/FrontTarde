@@ -89,18 +89,14 @@ O feed pode oferecer cupons de desconto aos usuários com base em suas interaç�
 
 # Requisitos Não Funcionais:
 
-O sistema deve incluir os dados dos usuários, senhas e devem ser armazenados de forma segura.
-
-O sistema deve ser responsivo e carregar rapidamente, mesmo em conexões de internet mais lentas.
-
-O sistema ira utilizar navegação GPS do Google Maps.
+O feed deve ser responsivo e carregar rapidamente, mesmo em conexões de internet mais lentas.
 
 O sistema deve ser projetado para lidar com um grande número de usuários e histórias à medida que o projeto cresce.
 
-O sistema deve haver uma interface do usuário que seja intuitiva e fácil de usar.
+O feed deve haver uma interface do usuário que seja intuitiva e fácil de usar.
 
-O sistema deve ser compatível com diferentes dispositivos, como smartphones, tablets e desktops.
+O feed deve ser compatível com diferentes dispositivos, como smartphones, tablets e desktops.
 
-O sistema deve haver uma estratégia eficaz para gerar receita por meio de publicidade.
+Deverá haver uma estratégia eficaz para gerar receita por meio de publicidade.
 
 
