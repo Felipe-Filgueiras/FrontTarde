@@ -43,7 +43,7 @@
 
 # Propósito
 
-Desenvolver uma aplicação web interativa que apresenta um feed de locais históricos, oferecendo uma experiência imersiva que inspira os usuários a explorar novos destinos e monetizar a aplicação através de publicidade 🌍🖥️📸🗺️
+Desenvolver uma aplicação web interativa que apresenta um feed de locais históricos, oferecendo uma experiência imersiva que inspira os usuários a explorar novos destinos e monetizar a aplicação através de publicidade 
 
 
 # Requisitos Funcionais e Não Funcionais
