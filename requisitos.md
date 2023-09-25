@@ -7,23 +7,11 @@
 
 - As histórias mais antigas devem ser apresentadas à medida que o usuário rola para baixo.
 
-- As histórias sobre locais no Rio de Janeiro devem estar vinculadas ao Google Maps, permitindo aos usuários ver a localização no mapa ao clicar na história.
-
 - Os usuários devem poder clicar em uma história para visualizar mais detalhes, incluindo texto completo, imagens e outros elementos de mídia.
-
-- Os usuários devem poder dar "curtir" em histórias para indicar seu interesse ou apreço.
 
 - O número de curtidas em uma história deve ser visível para os usuários.
 
-- Os usuários devem poder comentar em histórias, compartilhando suas opiniões e interagindo com outros usuários.
-
 - Os comentários devem ser exibidos abaixo da história.
-
-- Os comentários feitos pelos usuários devem passar por um processo de aprovação pelo administrador do sistema antes de serem visíveis publicamente.
-
-- Comentários aprovados pelo administrador devem ser exibidos no feed de notícias.
-
-- Os usuários devem ter a opção de salvar histórias como favoritas, permitindo que as acessem facilmente posteriormente.
 
 - Os usuários devem receber notificações quando novas histórias são adicionadas ao feed de notícias.
 
@@ -36,8 +24,6 @@
 - O feed deverá poder ser recarregado para receber posts mais recentes.
 
 - O feed deve exibir anúncios publicitários.
-
-- O feed pode oferecer cupons de desconto aos usuários com base em suas interações ou localização.
 
 
 # Requisitos Não Funcionais: 
