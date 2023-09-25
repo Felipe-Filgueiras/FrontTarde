@@ -1,3 +1,4 @@
+
 # Requisitos Funcionais: 
 
 - O feed de notícias deve exibir histórias e informações sobrelocais no Rio de Janeiro.
@@ -37,6 +38,7 @@
 - O feed deve exibir anúncios publicitários.
 
 - O feed pode oferecer cupons de desconto aos usuários com base em suas interações ou localização.
+
 
 # Requisitos Não Funcionais: 
 
