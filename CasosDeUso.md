@@ -1,6 +1,6 @@
 # Casos de uso
 
-Nome: Explorar Feed de Histórias Locais
+# Explorar Feed de Histórias Locais
 
 Ator: Usuário
 
@@ -30,8 +30,6 @@ Comentários feitos pelos usuários passam por um processo de aprovação pelo a
 
 Comentários aprovados pelo administrador são exibidos no feed de notícias.
 
-O usuário pode configurar preferências de notificação para receber alertas sobre novas histórias.
-
 O usuário pode compartilhar histórias em redes sociais ou via mensagens diretas.
 
 O usuário pode usar a funcionalidade de pesquisa para encontrar histórias específicas ou tópicos de interesse.
@@ -43,8 +41,13 @@ Fluxo Alternativo: (Não mencionado nos requisitos fornecidos)
 # Pós-Condições:
 
 As interações do usuário (curtidas, comentários, favoritos) são salvas.
+
 Comentários aprovados são visíveis no feed.
+
+O histórico de interações do usuário é atualizado com o novo comentário.
+
 O feed pode exibir anúncios relevantes.
+
 O feed pode oferecer cupons de desconto com base nas interações do usuário ou localização.
 
 
