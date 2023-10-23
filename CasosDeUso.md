@@ -1,6 +1,6 @@
 # Casos de uso
 
-Nome: Explorar Feed de Histórias Locais
+# Explorar Feed de Histórias Locais
 
 Ator: Usuário
 

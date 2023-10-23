@@ -48,3 +48,11 @@ Desenvolver uma aplicação web interativa que apresenta um feed de locais hist�
 
 # Requisitos Funcionais e Não Funcionais
 - [Requisitos](https://github.com/Felipe-Filgueiras/FrontTarde/blob/main/requisitos.md)
+
+# Casos de uso
+- [Casos de uso](https://github.com/Felipe-Filgueiras/FrontTarde/blob/main/CasosDeUso.md)
+
+# Protótipo
+
+- [Protótipo](https://www.figma.com/proto/pm5oN0kMMPUZqSkPkQI3hQ/Untitled?type=design&node-id=2-5&t=wcvQKDE7yLvNUs4F-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A5)
+  
