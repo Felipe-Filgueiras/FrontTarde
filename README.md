@@ -56,6 +56,10 @@ Desenvolver uma aplicação web interativa que apresenta um feed de locais hist�
 
 - [Protótipo](https://www.figma.com/proto/pm5oN0kMMPUZqSkPkQI3hQ/Untitled?type=design&node-id=1-6&t=BNjZM8HflUfnN2d1-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A5&mode=design)
 
+# Protótipo
+
+- [Trello](https://trello.com/b/LafxQMrJ/projetofrontend)
+
 # Projeto React
 
 - [Projeto React](https://github.com/Felipe-Filgueiras/FrontTarde/tree/main/passeio-carioca)
