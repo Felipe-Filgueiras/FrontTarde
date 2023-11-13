@@ -3,16 +3,17 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { BrowserRouter, HashRouter, Route, Routes } from 'react-router-dom';
+import Primeiro from './Primeiro';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <div className='Header'>
-  </div>
-    <App></App>
-     <div className='Footer'>
-  </div>
-
+    <HashRouter>
+      <Routes>
+      <Route path = "/" element = {<Primeiro/>}/>
+      </Routes>
+    </HashRouter>
   </React.StrictMode>
 );
 
