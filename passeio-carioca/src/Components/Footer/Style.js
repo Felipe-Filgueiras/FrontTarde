@@ -2,7 +2,6 @@ import { styled } from "styled-components";
 
 const ContainerFooter = styled.div`
 .Footer { 
-  position: fixed; 
   bottom: 0; 
   left: 0; 
   z-index: 10;

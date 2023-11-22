@@ -13,6 +13,10 @@ const ImageGallery = ({ images }) => {
             </div>
             <img src={image.src} alt={`Image ${index + 1}`} />
             <p>{image.description}</p>
+            <div id="saiba-mais">
+              <a href="#">Saiba mais</a>
+              <a href="#">Adicionar aos favoritos</a>
+            </div>
           </div>
         ))}
       </div>

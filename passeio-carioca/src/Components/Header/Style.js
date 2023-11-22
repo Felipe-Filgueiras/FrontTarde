@@ -12,12 +12,15 @@ const ContainerHeader = styled.div`
   align-items: left;
 }
 
-h3{
-    margin-left: 300px;
+h3 {
+  padding-left: 2em;
+  padding-top: 0.5em;
+  font-size: 15px;
 }
 p {
-    margin-top: 20px;
-    margin-left: 40px;
+  font-size: 15px;
+  padding-top: 1em;
+  padding-left: 4em;
 }
 `;
 

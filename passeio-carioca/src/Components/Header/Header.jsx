@@ -4,8 +4,8 @@ const Header = () => {
     return (
       <ContainerHeader>
         <div className='Header'>
-            <h3>Passeio Carioca</h3>
-            <p>Novidades no Rio de Janeiro</p>
+            <h3>Passeio <br></br>Carioca</h3>
+            <p>Explorarㅤ|ㅤFeedㅤ|ㅤFavoritos</p>
         </div>
       </ContainerHeader>
     );
