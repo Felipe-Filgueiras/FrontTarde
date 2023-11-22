@@ -46,12 +46,17 @@ h2 {
 
 #saiba-mais {
   padding-top: 1.5em;
+  padding-bottom: 1.5em;
 }
 
 #saiba-mais a{
   text-decoration: none;
   margin-right: 30px;
   margin-left: 15px;
+}
+#mapa{
+  min-width: 80%;
+  min-height: 80%;
 }
 `;
 
